@@ -175,3 +175,65 @@ body {
     justify-content: center;
     margin-left: 320px;
 }
+
+.about-us {
+    margin-top: 50px;
+    padding: 20px;
+
+
+}
+
+.work-title {
+    color: white;
+}
+
+.about-work {
+    width: 800px;
+    margin: 0 auto;
+    height: 400px;
+    background-image: url("images/donation9.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 15px;
+}
+
+.my-update {
+    text-align: center;
+
+    width: 50%;
+    justify-content: center;
+    margin-left: 320px;
+}
+
+.box {
+    background-size: cover;
+    position: absolute;
+    text-align: center;
+    width: 50%;
+    margin-left: 350px;
+    padding: 20px;
+    background-color: rgb(190, 97, 97);
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+    margin-top: -10px;
+    margin-top: 70px;
+}
+
+footer p {
+    color: white;
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+
+footer h1 {
+
+    color: red;
+}
