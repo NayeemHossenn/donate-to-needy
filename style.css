@@ -78,3 +78,100 @@ body {
     border-radius: 8px;
 
 }
+
+.donate-tittle {
+
+    text-align: center;
+    margin-bottom: 25px;
+
+
+}
+
+.donate-today-tittle {
+    text-align: center;
+    padding: 20px;
+}
+
+.partition-1 {
+    width: 65px;
+    height: 60px;
+    background-color: rgba(236, 244, 245, 0.952);
+    padding: 20px;
+
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+
+
+}
+
+.partition-2 {
+    width: 65px;
+    color: red;
+    height: 60px;
+    border: 2px solid red;
+    background-color: rgb(238, 195, 202);
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+
+
+}
+
+.partition-3 {
+    width: 65px;
+    height: 60px;
+    background-color: rgba(236, 244, 245, 0.952);
+    padding: 20px;
+
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+
+
+}
+
+.partition-4 {
+    width: 65px;
+    height: 60px;
+    background-color: rgba(236, 244, 245, 0.952);
+    padding: 20px;
+
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+
+
+}
+
+.partition-5 {
+    width: 65px;
+    height: 60px;
+    background-color: rgba(236, 244, 245, 0.952);
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+
+
+}
+
+.donate-today {
+    margin-top: 50px;
+    padding: 20px;
+
+}
+
+.five-partition {
+    display: flex;
+    justify-content: center;
+}
+
+.input-amount {
+    text-align: center;
+
+    width: 50%;
+    justify-content: center;
+    margin-left: 320px;
+}
