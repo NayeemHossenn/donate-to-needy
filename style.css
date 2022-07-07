@@ -22,6 +22,7 @@ body {
 
 }
 
+
 .link-button {
     color: white;
     text-decoration: none;
@@ -209,6 +210,10 @@ body {
     margin-left: 320px;
 }
 
+.updat-portion {
+    margin-bottom: 100px;
+}
+
 .box {
     background-size: cover;
     position: absolute;
@@ -219,7 +224,33 @@ body {
     background-color: rgb(190, 97, 97);
 }
 
+input {
+    position: relative;
+    display: inline;
+    font-size: 20px;
+
+}
+
+input[type="text"] {
+    width: 200px;
+    height: 50px;
+    padding: 0 25px;
+    border: 10px;
+    border-radius: 25px 0 0 25px;
+}
+
+input[type="submit"] {
+    position: relative;
+    margin-left: -5px;
+    border-radius: 0 15px 15px 0;
+    width: 150px;
+    height: 50px;
+    background: red;
+    color: white;
+}
+
 footer {
+
     background-color: black;
     text-align: center;
     padding: 50px;
@@ -236,4 +267,5 @@ footer p {
 footer h1 {
 
     color: red;
+    font-family: 'Berkshire Swash', cursive;
 }
